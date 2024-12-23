@@ -3,6 +3,7 @@ public class C01_deneme {
         System.out.println("merehabalar");
         //selam
         //boş kod
+        // dneme 2
 
     }
 }
